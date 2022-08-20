@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "dashboard-ui-demo-aug",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "../Downloads/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "dashboard-ui-demo-aug"
+  }
+}
