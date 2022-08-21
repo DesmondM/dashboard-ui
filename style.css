@@ -281,11 +281,13 @@ tbody tr:hover{
 
 .pagefooter{
   width: 95%;
-  height:100%;
-  margin-top: 50px;
+  //height:100%;
+  margin-bottom: 5px;
   text-align: center;
   paddding: 20px;
   font-size: 0.8rem;
+  position: fixed;
+  bottom:0;
 }
 
 @media (max-width:769px){
